@@ -1,1 +1,13 @@
-
+<b>Partlist exported from /Users/home/Documents/EAGLE/projects/Synth Engineering/CEM Synth SquelchBox/TeensyAudioProtoShield v0.5.sch at 13/05/2019 18:03</b>
+<p>
+<table>
+<tr><td><b>Qty</b></td><td><b>Value</b></td><td><b>Device</b></td><td><b>Package</b></td><td><b>Parts</b></td><td><b>Description</b></td><td><b></b></td></tr>
+<tr><td>6</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>PIN14, PIN15, VR1, VR2, VR3, VR4</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>1</td><td></td><td>AUDIOSHIELD</td><td>AUDIOSHIELD</td><td>U$1</td><td>Teensy 3 Audioshield by PJRC.COM</td><td></td></tr>
+<tr><td>1</td><td></td><td>CONN_02</td><td>1X02</td><td>J1</td><td>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections</td><td></td></tr>
+<tr><td>4</td><td></td><td>LED3MM</td><td>LED3MM</td><td>LED1, LED2, LED3, LED4</td><td>LED</td><td></td></tr>
+<tr><td>4</td><td>220</td><td>RESISTOR7MM</td><td>7MM_RESISTOR</td><td>R1, R2, R3, R4</td><td>Standard resistor, various versions</td><td></td></tr>
+<tr><td>4</td><td>D6_PUSH_SWITCH</td><td>D6_PUSH_SWITCH</td><td>D6_PUSH_SWITCH</td><td>S1, S2, S3, S4</td><td>Push switch</td><td></td></tr>
+<tr><td>2</td><td>SUBMINI_SPDT</td><td>SUBMINI_SPDT</td><td>SUBMINI_TOGGLE</td><td>U$2, U$3</td><td></td><td></td></tr>
+<tr><td>4</td><td>WQP-PJ301M-12_JACK</td><td>WQP-PJ301M-12_JACK</td><td>WQP-PJ301M-12_JACK</td><td>IN, IN1, OUT, OUT1</td><td></td><td></td></tr>
+</table>
