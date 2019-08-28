@@ -1,7 +1,7 @@
 Partlist exported from /Users/home/Documents/EAGLE/projects/Synth Engineering/CEM Synth SquelchBox/TeensyAudioProtoShield v0.5.sch at 13/05/2019 18:03
 
 Qty Value              Device             Package            Parts                            Description                                                                                                     
-6                      9MM_SNAP-IN_POT_   9MM_SNAP-IN_POT    PIN14, PIN15, VR1, VR2, VR3, VR4 9mm vertical snap-in pot, Alpha / Panasonic style                                                               
+6 10k                  9MM_SNAP-IN_POT_   9MM_SNAP-IN_POT    PIN14, PIN15, VR1, VR2, VR3, VR4 9mm vertical snap-in pot, Alpha / Panasonic style                                                               
 1                      AUDIOSHIELD        AUDIOSHIELD        U$1                              Teensy 3 Audioshield by PJRC.COM                                                                                
 1                      CONN_02            1X02               J1                               Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections 
 4                      LED3MM             LED3MM             LED1, LED2, LED3, LED4           LED                                                                                                             
